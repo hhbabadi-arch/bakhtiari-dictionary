@@ -31,3 +31,4 @@ authors: [{ name: "Hamidreza Habibi Babadi" }]
 version: "v1.11.0"
 date-released: 2026-11-14
 license: CC-BY-4.0
+10.5281/zenodo.1234567

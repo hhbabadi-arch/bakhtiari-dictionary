@@ -23,3 +23,11 @@ authors:
 version: "v1.11.0"
 date-released: 2026-11-14
 license: CC-BY-4.0
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Bakhtiari Comprehensive Dictionary"
+type: dataset
+authors: [{ name: "Hamidreza Habibi Babadi" }]
+version: "v1.11.0"
+date-released: 2026-11-14
+license: CC-BY-4.0

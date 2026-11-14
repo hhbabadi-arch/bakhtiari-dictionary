@@ -90,3 +90,34 @@ README.md
 > «صدای زاگرس، میراث فردا.» 🌿
 
 بختیاری
+
+cff-version: 1.2.0
+message: "اگر از این فرهنگ در پژوهش خود استفاده می‌کنید، لطفاً به‌صورت زیر استناد کنید."
+title: "فرهنگ جامع گویش بختیاری — Bakhtiari Comprehensive Dictionary"
+abstract: >-
+  فرهنگ جامع گویش بختیاری شامل ۲,۳۵۹+ مدخل واژگانی با آوانگاری IPA،
+  ۳۱ فصل، ۳ پیوست، ۳۲ ضرب‌المثل، ۴۰+ اصطلاح عاطفی و ۱۰۰+ مناسک اجتماعی است.
+  داده‌ها از ۱۹ گویشور از ۹+ منطقه در استان چهارمحال و بختیاری و مناطق همجوار گردآوری شده است.
+  گسترهٔ جغرافیایی: شهرکرد (۳۲٫۳۲°N، ۵۰٫۸۶°E) و مناطق بختیاری‌نشین خوزستان، لرستان و اصفهان.
+authors:
+  - family-names: "Habibi Babadi"
+    given-names: "Hamidreza"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # در صورت داشتن ORCID پر کن، وگرنه حذف کن
+version: "v1.11.0"
+date-released: "2026-11-14"
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.YOUR_DOI"                          # پس از دریافت DOI از Zenodo پر کن
+url: "https://github.com/hhbabadi-arch/bakhtiari-dictionary"
+repository-code: "https://github.com/hhbabadi-arch/bakhtiari-dictionary"
+keywords:
+  - "Bakhtiari"
+  - "bqi"
+  - "Iranian languages"
+  - "lexicography"
+  - "intangible cultural heritage"
+  - "Zagros"
+  - "گویش بختیاری"
+  - "فرهنگ واژگان"
+language: "bqi"
+type: dataset

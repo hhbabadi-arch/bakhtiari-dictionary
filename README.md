@@ -394,3 +394,13 @@ type: dataset
   doi       = {10.5281/zenodo.YOUR_DOI},
   url       = {https://github.com/hhbabadi-arch/bakhtiari-dictionary}
 }
+cff-version: 1.2.0
+message: "اگر از این فرهنگ استفاده می‌کنید، به‌صورت زیر استناد کنید."
+title: "فرهنگ جامع گویش بختیاری — Bakhtiari Comprehensive Dictionary"
+type: dataset
+authors:
+  - name: "Hamidreza Habibi Babadi"
+version: "v1.11.0"
+date-released: 2026-11-14
+license: CC-BY-4.0
+url: "https://github.com/hhbabadi-arch/bakhtiari-dictionary"

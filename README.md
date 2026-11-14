@@ -284,3 +284,31 @@ type: dataset
 ---
 
 ## 📂 ساختار مخزن (Repository Structure)
+
+
+---
+
+## 📜 مجوز
+
+این پروژه تحت مجوز Creative Commons Attribution 4.0 International (CC-BY-4.0) منتشر شده است.
+
+---
+
+## 📖 چگونه به این پروژه استناد کنیم؟ (Citation)
+
+اگر از این فرهنگ در پژوهش خود استفاده می‌کنید، لطفاً به‌صورت زیر استناد کنید:
+
+**APA:**
+> Habibi Babadi, H. (2026). *فرهنگ جامع گویش بختیاری — Bakhtiari Comprehensive Dictionary* (v1.11.0). Zenodo. https://doi.org/10.5281/zenodo.YOUR_DOI
+
+**BibTeX:**
+```bibtex
+@dataset{habibi_babadi_2026_bakhtiari,
+  author    = {Habibi Babadi, Hamidreza},
+  title     = {فرهنگ جامع گویش بختیاری — Bakhtiari Comprehensive Dictionary},
+  year      = 2026,
+  version   = {v1.11.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.YOUR_DOI},
+  url       = {https://github.com/hhbabadi-arch/bakhtiari-dictionary}
+}

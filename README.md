@@ -32,7 +32,7 @@ Comprehensive Dictionary of the Bakhtiari Dialect
 
     <div class="stats">
     <p>نخستین پلتفرم دیجیتال جامع برای مستندسازی، حفظ و انتشار گویش بختیاری.</p>
-
+git commit -m "Add Bakhtiari-lexicon PDF"
     <div class="links">
         <a href="https://github.com/hhbabadi-arch/bakhtiari-dictionary/blob/main/(core_lexion)%20of%20bakhtiari.docx.pdf" target="_blank">📄 دانلود کتاب (PDF)</a>
         <a href="https://github.com/hhbabadi-arch/bakhtiari-dictionary" target="_blank">💻 مشاهده مخزن گیت‌هاب</a>

@@ -38,7 +38,7 @@ Comprehensive Dictionary of the Bakhtiari Dialect
     </div>
 
     <footer>
-        «صدای زاگرس، میراث فردا.» 🌿
+   
     </footer>
 </div>: auto; background: white; padding: 40px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
         h1 { color: #1a5c3a; font-size: 2.2rem; margin-bottom: 10px; }
@@ -90,7 +90,7 @@ Comprehensive Dictionary of the Bakhtiari Dialect
         <h2>Comprehensive Dictionary of the Bakhtiari Dialect</h2>
         
         <div class="quote">
-            «از صدای گویشور زاگرس، تا میراث دیجیتال جهانی.»
+            
             <br>— حمیدرضا حبیبی بابادی
         </div>
 
@@ -103,7 +103,7 @@ Comprehensive Dictionary of the Bakhtiari Dialect
         </div>
 
         <footer>
-            «صدای زاگرس، میراث فردا.» 🌿
+           
         </footer>
     </div>
 </body>

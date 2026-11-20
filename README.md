@@ -108,4 +108,4 @@ Comprehensive Dictionary of the Bakhtiari Dialect
         </footer>
     </div>
 </body>
-</html>
+</html> n

@@ -1,4 +1,4 @@
-نسخه نهایی شامل(31 فسل2359+مدخلو داده های پرسشنامه میدانی)
+نسخه نهایی شامل(31 فصل2359+مدخلو داده های پرسشنامه میدانی)
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
@@ -25,8 +25,7 @@ Comprehensive Dictionary of the Bakhtiari Dialect
 
 🌿 فرهنگ جامع گویش بختیاری
 Comprehensive Dictionary of the Bakhtiari Dialect
-    <div class="quote">
-        «از صدای گویشور زاگرس، تا میراث دیجیتال جهانی.»
+  «از صدای گویشور زاگرس، تا میراث دیجیتال جهانی.»
         <br>— حمیدرضا حبیبی بابادی
     </div>
 

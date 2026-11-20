@@ -25,7 +25,7 @@ Comprehensive Dictionary of the Bakhtiari Dialect
 
 🌿 فرهنگ جامع گویش بختیاری
 Comprehensive Dictionary of the Bakhtiari Dialect
-  «از صدای گویشور زاگرس، تا میراث دیجیتال جهانی.»
+ 
         <br>— حمیدرضا حبیبی بابادی
     </div>
 

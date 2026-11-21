@@ -35,7 +35,7 @@
 
 LMF · TEI · CLDF · Glottolog bakh1245 · ISO 639-3 bqi · ELAR · CC-BY-4.0
 
----
+---docs: clean README with heading, proper links, and final stats
 
 ## شعار
 

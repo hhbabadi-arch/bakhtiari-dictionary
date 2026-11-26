@@ -1,1 +1,20 @@
+async function loadAllData() {
+  const speakerContainer = document.getElementById('speakers-list');
+  const tbody = document.getElementById('vocab-body');
+  
+  // 👇 این بخش باید حتماً در کد شما باشد
+  try {
+    const vocabRes = await fetch('data/lexicon/daily-life.json');
+    if (vocabRes.ok) {
+      const vocabData = await vocabRes.json();
+      for (const [fa, bqi] of Object.entries(vocabData.entries)) {
+        allVocab.push({ farsi: fa, bakhtiari: bqi, speaker: vocabData.category });
+      }
+    }
+  } catch (e) {
+    console.warn("خطا در خواندن واژه‌نامه روزمره", e);
+  }
+  // 👆 پایان بخش جدید
 
+  for (const file of speakerFiles) {
+    // ... بقیه کدها
